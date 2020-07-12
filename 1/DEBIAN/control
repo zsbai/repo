@@ -1,9 +1,0 @@
-Package: repo.bailu.kvasirwechattheme
-Section: WeChat Themes （微信主题） (免费主题)
-Maintainer: Soda/Liam Thynne <Qq1336171546@gmail.com>
-Architecture: iphoneos-arm
-Version: 1.0
-Description: A Kvasir WeChat Theme .  一款名为 Kvasir 的微信主题。
-SileoDepiction:https://zsbai.github.io/repo//ms/msxq/kvasir.json
-Name: Kvasir WeChatTheme（微信主题）
-Author: Soda/Liam Thynne <Qq1336171546@gmail.com>
