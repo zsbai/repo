@@ -1,0 +1,15 @@
+{
+	"themeId": "KvasirSoda",
+	"title": "KvasirSoda",
+	"name": "Soda",
+	"iconName": "icon",
+
+      "themeBuild":"1",
+      "themeChat":"000000", 
+	"tabbarNorColor": "CCCCCC",
+	"tabbarSelColor": "3eb5fd",
+	"themeFontColor": "FF7F83",
+	"cloing_709":"0",
+       "_7on6_": "1",
+      "chatShadeStatus": "1"
+}

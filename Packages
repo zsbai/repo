@@ -72,17 +72,18 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: FloatyTab浮动标签栏
 Sponsor: Ai-小苹果™
 
-Package: com.yourepo.soda-ldz.kvasirwechattheme
+Package: repo.bailu.kvasirwechattheme
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Soda/Liam Thynne <Qq1336171546@gmail.com>
-Filename: ./debs/com.yourepo.soda-ldz.kvasirwechattheme_1.0_iphoneos-arm.deb
-Size: 937572
-MD5sum: 5cce76e2c10647050dd904f28c000ebf
-SHA1: 85f5dde49ac323894ca572769f5191be60b38595
-SHA256: 5f55352b74b358e4f1353a75ef041e120192f6a28487402cc9f17e4decb4c3bc
+Filename: ./debs/repo.bailu.kvasirwechattheme_1.0_iphoneos-arm.deb
+Size: 915496
+MD5sum: d009c3e18f5724e69fe7e8473c00c382
+SHA1: 26a125921750320e55514ffaf93d6da010817da4
+SHA256: 20e80c88cec87261dc600ccf68ddd9d119849a3e3d111404dbfb2f2a1779f83c
 Section: WeChat Themes （微信主题） (免费主题)
 Description: A Kvasir WeChat Theme .  一款名为 Kvasir 的微信主题。
 Author: Soda/Liam Thynne <Qq1336171546@gmail.com>
 Name: Kvasir WeChatTheme（微信主题）
+Sileodepiction: https://zsbai.github.io/repo//ms/msxq/kvasir.json
 
