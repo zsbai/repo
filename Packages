@@ -1,3 +1,19 @@
+Package: com.bailu.flux
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/z11wiWZq5EFn5KszorWtcwkjUZVc8Obj0aXfes7h.deb
+Size: 6435960
+MD5sum: 78b4981a0bf77580f839144d81a9dec1
+SHA1: 3e0918e2eb10cf052f74d54552786143c5e804d5
+SHA256: 66e30eda746c065ecaa5878f1e24f88bb9b02d7201a0d81073a2c2b9a59e07c4
+Section: 主题
+Author: dpth
+Icon: file:///Applications/Cydia.app/Sections/Themes.png
+Name: Flux主题
+Sponsor: Ai-小苹果
+
 Package: com.cydiabc.ares
 Version: 1.0.1
 Architecture: iphoneos-arm
