@@ -3,7 +3,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Ai-小苹果
 Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: ./debs/z11wiWZq5EFn5KszorWtcwkjUZVc8Obj0aXfes7h.deb
+Filename: ./debs/flux.deb
 Size: 6435960
 MD5sum: 78b4981a0bf77580f839144d81a9dec1
 SHA1: 3e0918e2eb10cf052f74d54552786143c5e804d5
@@ -86,4 +86,18 @@ Description: A Kvasir WeChat Theme .  一款名为 Kvasir 的微信主题。
 Author: Soda/Liam Thynne <Qq1336171546@gmail.com>
 Name: Kvasir WeChatTheme（微信主题）
 Sileodepiction: https://zsbai.github.io/repo//ms/msxq/kvasir.json
+
+Package: repo.bailu.soda-ldz.inkcctheme
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Soda（苏打） <Qq1336171546@gmail.com>
+Filename: ./debs/repo.bailu.soda-ldz.inkcctheme_1.1_iphoneos-arm.deb
+Size: 206528
+MD5sum: 5069163461b9430b008c35ed5935c49f
+SHA1: 97055c66c75d033547babde53fc42538349a453d
+SHA256: cbd48e7ffd2c1347c0c0e84084dcb2e68307fe6e24073560b886c78d475d419f
+Section: 主题
+Author: Soda（苏打） <Qq1336171546@gmail.com>
+Name: Ink CC Theme（控制中心主题）
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/inkcc.json
 
