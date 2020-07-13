@@ -1,21 +1,3 @@
-Package: com.bailu.flux
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Ai-小苹果
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: ./debs/com.bailu.flux_1.1_iphoneos-arm.deb
-Size: 6129740
-MD5sum: 4ffc016b858014151c1ffdf67f7bf2c4
-SHA1: 16a074381b2f39672181d693a46de9e821aa44fa
-SHA256: 7097ba5fe412055e2f03ada5e983e1235ffeadb6777ab6e9dab7b2691c294310
-Section: 主题
-Author: dpth
-Depiction: Flux主题，用snowboard加载
-Icon: file:///Applications/Cydia.app/Sections/Themes.png
-Name: Flux主题
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/flux.json
-Sponsor: Ai-小苹果
-
 Package: com.cydiabc.ares
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -88,6 +70,24 @@ Description: A Kvasir WeChat Theme .  一款名为 Kvasir 的微信主题。
 Author: Soda/Liam Thynne <Qq1336171546@gmail.com>
 Name: Kvasir WeChatTheme（微信主题）
 Sileodepiction: https://zsbai.github.io/repo//ms/msxq/kvasir.json
+
+Package: repo.zsbai.flux
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/repo.zsbai.flux_1.1_iphoneos-arm.deb
+Size: 6129752
+MD5sum: 2099086cb27589c9263b23c32f5c5b3f
+SHA1: c2fc839ec81bac6445efa534892078ec4fb32cff
+SHA256: 2f1d234357e56ccf9d6abcda9a608689bb0eabe53d3a050ecd2a7362e0dd843f
+Section: 主题
+Description: Flux主题，用snowboard加载
+Author: dpth
+Icon: file:///Applications/Cydia.app/Sections/Themes.png
+Name: Flux主题
+Sileodepiction: https://zsbai.github.io/ms/msxq/flux.json
+Sponsor: Ai-小苹果
 
 Package: repo.zsbai.soda-ldz.inkcctheme
 Version: 1.1
