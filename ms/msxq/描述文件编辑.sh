@@ -10,8 +10,8 @@ perl -p -i -e "s/1.0.0/1.1/g"  cydia副本 sileo副本.json
 perl -p -i -e "s/2019-01-21/2019-07-10/g"  sileo副本.json
 #perl -p -i -e "s/暂时没有历史版本/2019-05-04更新支持A12/g"  cydia副本
 #截图
-#perl -p -i -e "s/https://cdn.jsdelivr.net/gh/zsbai/CDN/img/yulanjietu.PNG/slices21.png/g"   sileo副本.json
-perl -p -i -e "s/2.png/flux.png/g"   sileo副本.json
+#perl -p -i -e "s/yulanjietu.PNG/flux.png/g"   sileo副本.json
+#perl -p -i -e "s/2.png/flux.png/g"   sileo副本.json
 #perl -p -i -e "s/3.png/slices23.png/g"   sileo副本.json
 #perl -p -i -e "s/4.png/slices23.png/g"   sileo副本.json
 #perl -p -i -e "s/ipX.gif/slices21.png/g"  cydia副本
