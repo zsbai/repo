@@ -2,7 +2,7 @@
 perl -p -i -e "s/插件名字/Ink CC Theme（控制中心主题）/g"  cydia副本 sileo副本.json
 perl -p -i -e "s/插件的描述文字/Ink CC Theme（控制中心主题）/g"  cydia副本 sileo副本.json
 #sileo 专属：作者名字
-perl -p -i -e "s/11111/Soda/g" sileo副本.json
+perl -p -i -e "s/bailu/Soda/g" sileo副本.json
 
 #支持系统
 perl -p -i -e "s/IOS:11-12/所有/g"  cydia副本 sileo副本.json
