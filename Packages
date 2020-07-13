@@ -87,15 +87,15 @@ Author: Soda/Liam Thynne <Qq1336171546@gmail.com>
 Name: Kvasir WeChatTheme（微信主题）
 Sileodepiction: https://zsbai.github.io/repo//ms/msxq/kvasir.json
 
-Package: repo.bailu.soda-ldz.inkcctheme
+Package: repo.zsbai.soda-ldz.inkcctheme
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Soda（苏打） <Qq1336171546@gmail.com>
-Filename: ./debs/repo.bailu.soda-ldz.inkcctheme_1.1_iphoneos-arm.deb
-Size: 206528
-MD5sum: 5069163461b9430b008c35ed5935c49f
-SHA1: 97055c66c75d033547babde53fc42538349a453d
-SHA256: cbd48e7ffd2c1347c0c0e84084dcb2e68307fe6e24073560b886c78d475d419f
+Filename: ./debs/repo.zsbai.soda-ldz.inkcctheme_1.1_iphoneos-arm.deb
+Size: 206536
+MD5sum: 1e3292860a3aa03d544f6d106fbac87f
+SHA1: 9a076113ba18d1db7dae084c0100c4e01625206a
+SHA256: abeb0a8167981ef9a8631a725ad204e8e88947d71408161fff27bbc44440b951
 Section: 主题
 Author: Soda（苏打） <Qq1336171546@gmail.com>
 Name: Ink CC Theme（控制中心主题）
