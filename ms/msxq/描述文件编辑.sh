@@ -1,11 +1,10 @@
 #!/bin/sh
-perl -p -i -e "s/插件名字/Ink CC Theme（控制中心主题）/g"  cydia副本 sileo副本.json
 perl -p -i -e "s/插件的描述文字/Ink CC Theme（控制中心主题）/g"  cydia副本 sileo副本.json
 #sileo 专属：作者名字
 perl -p -i -e "s/bailu/Soda/g" sileo副本.json
 
 #支持系统
-perl -p -i -e "s/IOS:11-12/所有/g"  cydia副本 sileo副本.json
+perl -p -i -e "s/-/-/g"  cydia副本 sileo副本.json
 perl -p -i -e "s/1.0.0/1.0.0/g"  cydia副本 sileo副本.json
 #更新时间
 perl -p -i -e "s/2019-01-21/2020-05-04/g"  sileo副本.json
