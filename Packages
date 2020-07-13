@@ -92,13 +92,13 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Soda（苏打） <Qq1336171546@gmail.com>
 Filename: ./debs/repo.zsbai.soda-ldz.inkcctheme_1.1_iphoneos-arm.deb
-Size: 206524
-MD5sum: 97afe7cc2183e368605f120181f48478
-SHA1: df5fdcb7eeaded7d1fde8c989758c480c31d5a4c
-SHA256: b252bed547bb37a7f088d35bbf61825c866bd0a9a04d5d2766025fb5e2a97ef0
+Size: 206544
+MD5sum: 7fca99db938416f66c14e4903594701c
+SHA1: e4ee15c67c8c4587b3ffd4717479ff92701b9ca6
+SHA256: 70241bcc7bf3af405ea145ac196ebe845e3067bc70d5c4bba2cc36c8e0ca9bee
 Section: 主题
 Author: Soda（苏打） <Qq1336171546@gmail.com>
 Depiction: Ink CC Theme（控制中心主题）
 Name: Ink CC Theme（控制中心主题）
-Sileodepiction: https://zsbai.github.io/repo/ms/msxq/inkcc.json
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/kvasir.json
 
