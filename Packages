@@ -104,3 +104,52 @@ Author: Soda（苏打） <Qq1336171546@gmail.com>
 Name: Ink CC Theme（控制中心主题）
 Sileodepiction: https://zsbai.github.io/repo/ms/msxq/inkcc.json
 
+Package: repo.zsbai.taobaonoads
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate
+Filename: ./debs/repo.zsbai.taobaonoads_1.1-1_iphoneos-arm.deb
+Size: 112852
+MD5sum: eeb301abbdc6fefba0a94ab77137dbeb
+SHA1: 27d30859d23babde6872e904d7fc3284b92ac87f
+SHA256: 5b243f74841792c88678f992c96db6c02793599d44d9b05a7f0bbaff3f35a22a
+Section: Noads
+Description: 淘宝去启动广告等
+Author: 7Loopy
+Name: 淘宝 NoAds
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/taobaonoads.json
+
+Package: repo.zsbai.weibonoads
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate
+Filename: ./debs/repo.zsbai.weibonoads_1.0-1_iphoneos-arm.deb
+Size: 113332
+MD5sum: 53aa2c1450fd2db736ca4806e5ebf36f
+SHA1: b8fd1ebf1e134daaf55178b23f5250a18cfc2650
+SHA256: 1cf015fffc77bf256fc92ebbca28aa1ae75978ce04fcd2b8151c895366afb6a5
+Section: Noads
+Description: 微博去除启动广告，去除首页顶部故事！支持最新版
+Author: Netskao
+Name: 微博 NoAds
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/weibonoads.json
+
+Package: repo.zsbai.wfnoads
+Version: 1.4-5
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./debs/repo.zsbai.wfnoads_1.4-5_iphoneos-arm.deb
+Size: 51424
+MD5sum: dfceeb720e683efa904b37436a0f86f8
+SHA1: c8282ea3e69c981f92c3690c52b660298797c7af
+SHA256: 60c75be2d260a31d54ad01990817b0ecf14819a8c9ae89ba1112fbe3575b2678
+Section: Noads
+Description: 威锋完美去启动广告，贴间广告等，支持5.x所有版本
+Author: 7Loopy
+Name: 威锋 NoAds
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/wfnoads.json
+

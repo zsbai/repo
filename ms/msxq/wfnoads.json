@@ -1,5 +1,5 @@
 {
-    "headerImage":"https://cdn.jsdelivr.net/gh/zsbai/CDN/img/luotianyi.JPG",
+    "headerImage":"https://github.com/sileo-cydia/sileo-cydia.github.io/blob/master/tupian/31.jpg?raw=true",
     "tintColor":"#FE3644",
     "tabs":[
         {
@@ -20,7 +20,7 @@
                 {
                     "useSpacing":true,
                     "class":"DepictionMarkdownView",
-                    "markdown":"插件的描述文字"
+                    "markdown":"威锋完美去启动广告，贴间广告等，支持5.x所有版本"
                 },
                 {
                     "class":"DepictionSeparatorView"
@@ -35,17 +35,17 @@
                 },
                 {
                     "title":"作者",
-                    "text":"bailu",
+                    "text":"7Loopy",
                     "class":"DepictionTableTextView"
                 },
                 {
                     "title":"更新日期",
-                    "text":"2019-01-21",
+                    "text":"2020-03-01",
                     "class":"DepictionTableTextView"
                 },
                 {
                     "title":"当前版本",
-                    "text":"1.0.0",
+                    "text":"1.4-5",
                     "class":"DepictionTableTextView"
                 },
                 {

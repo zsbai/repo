@@ -20,7 +20,7 @@
                 {
                     "useSpacing":true,
                     "class":"DepictionMarkdownView",
-                    "markdown":"插件的描述文字"
+                    "markdown":"微博去除启动广告，去除首页顶部故事！支持最新版"
                 },
                 {
                     "class":"DepictionSeparatorView"
@@ -35,17 +35,17 @@
                 },
                 {
                     "title":"作者",
-                    "text":"bailu",
+                    "text":"7Loopy",
                     "class":"DepictionTableTextView"
                 },
                 {
                     "title":"更新日期",
-                    "text":"2019-01-21",
+                    "text":"2019-10-24",
                     "class":"DepictionTableTextView"
                 },
                 {
                     "title":"当前版本",
-                    "text":"1.0.0",
+                    "text":"1.1-1",
                     "class":"DepictionTableTextView"
                 },
                 {
