@@ -51,6 +51,23 @@ Name: Bongwater仿iOS14通讯录
 Sileodepiction: https://zsbai.github.io/repo/ms/msxq/bongwater.json
 Sponsor: Ai-小苹果™
 
+Package: repo.zsbai.clipboardpro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 256
+Depends: mobilesubstrate
+Filename: ./debs/repo.zsbai.clipboardpro_0.0.1_iphoneos-arm.deb
+Size: 44048
+MD5sum: 794656d1a53c24dc8687901bea646735
+SHA1: 1569f8dd2d30c92907faff04b6d2525dccc644e7
+SHA256: 356cc68678dc5ae0d85ebfa2217b1a1abee223a64ada1ca1e8cee117fd650a0a
+Section: 插件
+Description: 模仿iOS14的剪切板提示，软件调用剪贴板时会提示，详情看预览图
+Author: Potatso
+Name: ClipboardPro
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/photoinfo.json
+
 Package: repo.zsbai.floatytab
 Version: 1.0.5
 Architecture: iphoneos-arm
@@ -88,6 +105,23 @@ Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: Flux主题
 Sileodepiction: https://zsbai.github.io/repo/ms/msxq/flux.json
 Sponsor: Ai-小苹果
+
+Package: repo.zsbai.photoinfo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./debs/repo.zsbai.photoinfo_1.0_iphoneos-arm.deb
+Size: 6492
+MD5sum: 34a3fcd929b4df721e1f2d978f1304f1
+SHA1: c2abf8e7f03c900d8940ac2e19866dbad4a35a10
+SHA256: 9795a9bc5aec9c78f87e0d157df686a4cfb19399508c1c08ec79496123435dda
+Section: 插件
+Description: 在相册照片顶部显示当前照片的分辨率大小和照片多少MB
+Author: shepgoba
+Name: PhotoInfo
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/photoinfo.json
 
 Package: repo.zsbai.soda-ldz.inkcctheme
 Version: 1.1
