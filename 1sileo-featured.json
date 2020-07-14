@@ -1,0 +1,37 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+        {
+            "url": "https://repo.baiblog.ren/icon/sileo/1.png",
+            "title": "微信美化增强",
+            "package": "repo.baiblog.ren.sutuplus",
+            "repoName": "某某个人源™"
+        },
+        {
+            "url": "https://repo.baiblog.ren/icon/sileo/2.png",
+            "title": "ShortLook 炫酷通知",
+            "package": "repo.baiblog.ren.shortlook",
+            "repoName": "某某个人源™"
+        },
+        {
+            "url": "https://repo.baiblog.ren/icon/sileo/3.png",
+            "title": "Bazzi 电池定制",
+            "package": "repo.baiblog.ren",
+            "repoName": "某某个人源™"
+        },
+        {
+            "url": "https://repo.baiblog.ren/icon/sileo/4.png",
+            "title": "Pikabu Lite 炫酷音量",
+            "package": "repo.baiblog.ren.pikabulite",
+            "repoName": "某某个人源™"
+        },
+        {
+            "url": "https://repo.baiblog.ren/icon/sileo/5.png",
+            "title": "BetterSettings",
+            "package": "repo.baiblog.ren.bettersettings",
+            "repoName": "某某个人源™"
+        }
+    ]
+}
