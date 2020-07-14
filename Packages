@@ -120,6 +120,23 @@ Author: 7Loopy
 Name: 淘宝 NoAds
 Sileodepiction: https://zsbai.github.io/repo/ms/msxq/taobaonoads.json
 
+Package: repo.zsbai.ttnoads
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./debs/repo.zsbai.ttnoads_1.2-1_iphoneos-arm.deb
+Size: 51256
+MD5sum: 7270bcd122908dec316befb7334a27de
+SHA1: 467bc131be129fb5b4ef8d60bd2f1ddd6f09e468
+SHA256: 22a7676c8e4c3218c7f75b24c12af6b0f29be03210425e4188baaab5abbe92b1
+Section: Noads
+Description: 推特去除推文间的推荐广告
+Author: 7Loopy
+Name: 推特 NoAds
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/ttnoads.json
+
 Package: repo.zsbai.weibonoads
 Version: 1.0-1
 Architecture: iphoneos-arm
