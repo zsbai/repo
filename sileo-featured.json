@@ -1,0 +1,13 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+        {
+            "url": "https://cdn.jsdelivr.net/gh/zsbai/CDN/img/rail.JPG",
+            "title": "白白白白白鹭",
+            "package": "",
+            "repoName": "™"
+        }
+    ]
+}
