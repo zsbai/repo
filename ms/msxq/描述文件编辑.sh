@@ -4,7 +4,7 @@ perl -p -i -e "s/插件的描述文字/模仿iOS14的剪切板提示，软件调
 perl -p -i -e "s/bailu/Potatso/g" sileo副本.json
 
 #支持系统
-perl -p -i -e "s/---/11.0~13.6/g"  cydia副本 sileo副本.json
+perl -p -i -e "s/---/13.0~13.6/g"  cydia副本 sileo副本.json
 perl -p -i -e "s/1.0.0/0.0.1/g"  cydia副本 sileo副本.json
 #更新时间
 perl -p -i -e "s/2019-01-21/2020-07-07/g"  sileo副本.json
@@ -15,8 +15,8 @@ perl -p -i -e "s/2.png/photoinfo2.jpg/g"   sileo副本.json
 #perl -p -i -e "s/3.png/slices23.png/g"   sileo副本.json
 #perl -p -i -e "s/4.png/slices23.png/g"   sileo副本.json
 #perl -p -i -e "s/ipX.gif/slices21.png/g"  cydia副本
-mv cydia副本 photoinfo
-mv sileo副本.json photoinfo.json
+mv cydia副本 clipboardpro
+mv sileo副本.json clipboardpro.json
 
 
 cp cydia样本 cydia副本

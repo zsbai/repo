@@ -58,15 +58,15 @@ Maintainer: Nets
 Installed-Size: 256
 Depends: mobilesubstrate
 Filename: ./debs/repo.zsbai.clipboardpro_0.0.1_iphoneos-arm.deb
-Size: 44048
-MD5sum: 794656d1a53c24dc8687901bea646735
-SHA1: 1569f8dd2d30c92907faff04b6d2525dccc644e7
-SHA256: 356cc68678dc5ae0d85ebfa2217b1a1abee223a64ada1ca1e8cee117fd650a0a
+Size: 44068
+MD5sum: ef9a28539db253ee2257698b10d737af
+SHA1: a82703d526e28ec24361f6547e2c05cafa1d544b
+SHA256: e4e71760fd8d72a1f37f81c8dcfc6e3b486d26a314decc340ff6f708a48f2209
 Section: 插件
 Description: 模仿iOS14的剪切板提示，软件调用剪贴板时会提示，详情看预览图
 Author: Potatso
 Name: ClipboardPro
-Sileodepiction: https://zsbai.github.io/repo/ms/msxq/photoinfo.json
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/clipboardpro.json
 
 Package: repo.zsbai.floatytab
 Version: 1.0.5

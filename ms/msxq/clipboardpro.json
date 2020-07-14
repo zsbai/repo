@@ -20,7 +20,7 @@
                 {
                     "useSpacing":true,
                     "class":"DepictionMarkdownView",
-                    "markdown":"在相册照片顶部显示当前照片的分辨率大小和照片多少MB"
+                    "markdown":"模仿iOS14的剪切板提示，软件调用剪贴板时会提示，详情看预览图"
                 },
                 {
                     "class":"DepictionSeparatorView"
@@ -30,22 +30,22 @@
                 },
                 {
                     "title":"系统支持",
-                    "text":"11.0~13.6",
+                    "text":"13.0~13.6",
                     "class":"DepictionTableTextView"
                 },
                 {
                     "title":"作者",
-                    "text":"shepgoba",
+                    "text":"Potatso",
                     "class":"DepictionTableTextView"
                 },
                 {
                     "title":"更新日期",
-                    "text":"2020-03-05",
+                    "text":"2020-07-07",
                     "class":"DepictionTableTextView"
                 },
                 {
                     "title":"当前版本",
-                    "text":"1.0",
+                    "text":"0.0.1",
                     "class":"DepictionTableTextView"
                 },
                 {
@@ -68,11 +68,11 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://cdn.jsdelivr.net/gh/zsbai/CDN/img/yulanjietu.PNG"
+                            "url":"https://cdn.jsdelivr.net/gh/zsbai/CDN/img/photoinfo1.jpg"
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://cdn.jsdelivr.net/gh/zsbai/CDN/img/photoinfo.jpg"
+                            "url":"https://cdn.jsdelivr.net/gh/zsbai/CDN/img/photoinfo2.jpg"
                         },
                         {
                             "accessibilityText":"Screenshot",
