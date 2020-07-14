@@ -1,61 +1,3 @@
-Package: com.cydiabc.ares
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Phoenix Dev
-Installed-Size: 1176
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/com.cydiabc.ares_1.0.1_iphoneos-arm (1).deb
-Size: 672426
-MD5sum: 9cdad4447d9d065e16f3c454de1fba41
-SHA1: 4d440fb3338b228a33493a52efe77231cd06660c
-SHA256: 0f3846ce324cbf4712dcd6c782281130839f0d602bba66d7648fdf51bcda98b4
-Section: 系统
-Description: Ares完全改变了您的Siri体验，这是一个高度可定制的调整，使您可以轻松地使用Siri
-A12: 1
-Author: Phoenix Dev
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Ares迷你Siri
-Sponsor: Ai-小苹果™
-
-Package: com.cydiabc.bongwater
-Version: 1.1.3
-Architecture: iphoneos-arm
-Maintainer: MainRepo
-Installed-Size: 172
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/com.cydiabc.bongwater_1.1.3_iphoneos-arm.deb
-Size: 34678
-MD5sum: 9b38fa0330d6b4f896ce425c6ae98ec0
-SHA1: 78053daecaab5345974260136f729c06da4afc99
-SHA256: be5f6658fb8f39637d1c4461ece32cb6453fcd2dd6db9d0b4cc2c93e4a22f170
-Section: 系统
-Description: 仿iOS14重新设计通讯录应用程序，安装即可生效
-A12: 1
-Author: qwertyuiop1379
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Bongwater仿iOS14通讯录
-Sponsor: Ai-小苹果™
-
-Package: com.cydiabc.floatytab
-Version: 1.0.4
-Architecture: iphoneos-arm
-Maintainer: Dylan West
-Installed-Size: 5580
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker, applist, ws.hbang.common (>= 1.14)
-Filename: ./debs/com.cydiabc.floatytab_1.0.4_iphoneos-arm (1).deb
-Size: 5040064
-MD5sum: 3555fc70e8901cf47f2e56555e0257d1
-SHA1: ee4c77f6e8952f7d1efd9cd34772350ff4c3ee02
-SHA256: 3ba48ca179eaa42056d10aa836c5d5d71fd37d9e3cbaca93850d3525d41dff0a
-Section: 系统
-Description: 您的应用标签栏浮动并自定义形状 ，带有3种不同的样式（蓬松，圆形和叶子）
-Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios13.3
-A12: 1
-Author: Dylan West
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: FloatyTab浮动标签栏
-Sponsor: Ai-小苹果™
-
 Package: repo.bailu.kvasirwechattheme
 Version: 1.0
 Architecture: iphoneos-arm
@@ -70,6 +12,64 @@ Description: A Kvasir WeChat Theme .  一款名为 Kvasir 的微信主题。
 Author: Soda/Liam Thynne <Qq1336171546@gmail.com>
 Name: Kvasir WeChatTheme（微信主题）
 Sileodepiction: https://zsbai.github.io/repo//ms/msxq/kvasir.json
+
+Package: repo.zsbai.ares
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Phoenix Dev
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/repo.zsbai.ares_1.0.1_iphoneos-arm.deb
+Size: 626656
+MD5sum: a3c3a396b5d568d7e3d6e7e20c3b2151
+SHA1: ef62e953adf9a8d34544d137231078af1e808efa
+SHA256: e001c6327c7c1fd70fc15b82c0fd476994e17f27431a30833c5e7e32d6bdec61
+Section: 插件
+Description: Ares完全改变了您的Siri体验，这是一个高度可定制的调整，使您可以轻松地使用Siri
+A12: 1
+Author: Phoenix Dev
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Ares迷你Siri
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/ares.json
+Sponsor: Ai-小苹果™
+
+Package: repo.zsbai.bongwater
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: MainRepo
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/repo.zsbai.bongwater_1.1.3_iphoneos-arm.deb
+Size: 20764
+MD5sum: 34cca9c5914b412613704afa4626e791
+SHA1: 07505a5584b30df25c51fe9174beb04e844f84eb
+SHA256: 366c60ff3a2a3b51e2360942eca7eb80196dbf66f13feb64b341c545c268be81
+Section: 插件
+Description: 仿iOS14重新设计通讯录应用程序，安装即可生效
+A12: 1
+Author: qwertyuiop1379
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Bongwater仿iOS14通讯录
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/bongwater.json
+Sponsor: Ai-小苹果™
+
+Package: repo.zsbai.floatytab
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Dylan West
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, applist, ws.hbang.common (>= 1.14)
+Filename: ./debs/repo.zsbai.floatytab_1.0.5_iphoneos-arm.deb
+Size: 5404030
+MD5sum: c7bffd4961e2c799e51d95876946f664
+SHA1: 1db163870b223e88b19264b0c9b1ac60af34b780
+SHA256: d52a59f7118efdd0a25ce3d54d384586e353411a05cb9d6a7b0710665097d6b8
+Section: 插件
+Description: 您的应用标签栏浮动并自定义形状 ，带有3种不同的样式（蓬松，圆形和叶子）
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios13.3
+A12: 1
+Author: Dylan West
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: FloatyTab浮动标签栏
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/floatytab.json
+Sponsor: Ai-小苹果™
 
 Package: repo.zsbai.flux
 Version: 1.1
