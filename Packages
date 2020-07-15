@@ -225,6 +225,25 @@ Author: 7Loopy
 Name: 推特 NoAds
 Sileodepiction: https://zsbai.github.io/repo/ms/msxq/ttnoads.json
 
+Package: repo.zsbai.viola
+Version: 1.9.6
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Filename: ./debs/repo.zsbai.viola_1.9.6_iphoneos-arm.deb
+Size: 57091404
+MD5sum: f44a60057beb8d990e7af5ff2cb4d2e3
+SHA1: 99c06537c196d34d4bd8795b8fd064286a69dbd0
+SHA256: 63f97a847990e9d80503606781feaa592e5e67997f9b163f833882a491b1a836
+Section: 主题
+Description: 一个简单，现代和美丽的iOS主题，主题用SnowBoard加载，若无安装SnowBoard请先安装，效果预览截图
+A12: 1
+Author: Bousrih
+Icon: file:///Applications/Cydia.app/Sections/Themes.png
+Icon2: 11.png
+Name: Viola主题
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/viola.json
+Sponsor: Ai-小苹果
+
 Package: repo.zsbai.weibonoads
 Version: 1.0-1
 Architecture: iphoneos-arm
