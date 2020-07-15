@@ -138,6 +138,23 @@ Author: Soda（苏打） <Qq1336171546@gmail.com>
 Name: Ink CC Theme（控制中心主题）
 Sileodepiction: https://zsbai.github.io/repo/ms/msxq/inkcc.json
 
+Package: repo.zsbai.sutuplus
+Version: 3.1.0
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 676
+Depends: mobilesubstrate
+Filename: ./debs/repo.zsbai.sutuplus_3.1.0_iphoneos-arm.deb
+Size: 371192
+MD5sum: fae467210b0b2c0a4b258c2aed57df2d
+SHA1: 6ece26e2a08915e368a93930944070fb6e2b89b9
+SHA256: 527b6002c0992d8027124d17be7bf7e3810d5fa475146a0b12049c8bebc8cc76
+Section: 插件
+Description: 一款VX美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
+Author: Carby(公众号:苏兔)
+Name: SutuPLUS-苏兔PLUS WX美化增强工具
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/sutuplus.json
+
 Package: repo.zsbai.taobaonoads
 Version: 1.1-1
 Architecture: iphoneos-arm
