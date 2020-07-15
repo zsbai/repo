@@ -13,6 +13,24 @@ Author: Soda/Liam Thynne <Qq1336171546@gmail.com>
 Name: Kvasir WeChatTheme（微信主题）
 Sileodepiction: https://zsbai.github.io/repo//ms/msxq/kvasir.json
 
+Package: repo.zsbai.LineWhiteEdit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Carby <super.cat.rabbit@gmail.com>
+Installed-Size: 1438
+Depends: mobilesubstrate
+Filename: ./debs/repo.zsbai.linewhiteedit_1.0_iphoneos-arm.deb
+Size: 1438620
+MD5sum: a78f6f058b206e5d5beef6b55c93852b
+SHA1: 62bfd0a26cbe139c56daa27b92db8161d3c115a8
+SHA256: 6b547b04229718bfbba09ff76924f6af038028edb6d11e408b086638f8e79d88
+Section: 微信主题
+Description: 本插件安装包来自苏兔源
+Author: 公众号：苏兔（bysutu） <super.cat.rabbit@gmail.com>
+Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.LineWhiteEdit
+Name: 新手线性白 - SutuPLUS简约主题
+Sileodepiction: ../ms/msxq/linewhite.json
+
 Package: repo.zsbai.apptools13
 Version: 2.2.1
 Architecture: iphoneos-arm

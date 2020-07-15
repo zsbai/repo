@@ -76,11 +76,11 @@
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://sileo-cydia.github.io/jietu/3.png"
+                            "url":"https://cdn.jsdelivr.net/gh/zsbai/CDN/img/3.png"
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://sileo-cydia.github.io/jietu/4.png"
+                            "url":"https://cdn.jsdelivr.net/gh/zsbai/CDN/img/4.png"
                         }
                     ],
                     "class":"DepictionScreenshotsView",
