@@ -20,16 +20,16 @@ Maintainer: Carby <super.cat.rabbit@gmail.com>
 Installed-Size: 1438
 Depends: mobilesubstrate
 Filename: ./debs/repo.zsbai.linewhiteedit_1.0_iphoneos-arm.deb
-Size: 1438620
-MD5sum: a78f6f058b206e5d5beef6b55c93852b
-SHA1: 62bfd0a26cbe139c56daa27b92db8161d3c115a8
-SHA256: 6b547b04229718bfbba09ff76924f6af038028edb6d11e408b086638f8e79d88
+Size: 1438636
+MD5sum: 18fb51ca52024706ae5d0c7dcf3641c5
+SHA1: 2b0e83d2e1d893ec9ae334a8bda4db307c6060fe
+SHA256: 90012c3a53e789458cfc0c6bbc224c29b812ed0735d92bb6ad90b13186968397
 Section: 微信主题
 Description: 本插件安装包来自苏兔源
 Author: 公众号：苏兔（bysutu） <super.cat.rabbit@gmail.com>
 Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.LineWhiteEdit
 Name: 新手线性白 - SutuPLUS简约主题
-Sileodepiction: ../ms/msxq/linewhite.json
+Sileodepiction: http://zsbai.baiblog.ren/repo/ms/msxq/linewhite.json
 
 Package: repo.zsbai.apptools13
 Version: 2.2.1

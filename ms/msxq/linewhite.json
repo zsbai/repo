@@ -20,7 +20,7 @@
                 {
                     "useSpacing":true,
                     "class":"DepictionMarkdownView",
-                    "markdown":"新手线性白 - SutuPLUS简约主题"
+                    "markdown":"配置相关  \n安装包主题放置目录为：/Library/CarbyTheme/ \n备注名称不显示时，请在SUTUPLUS插件内，关闭或修改“返回按钮与标题色值”为：FFFFFF，打开“顶部信号状态栏”为白色。"
                 },
                 {
                     "class":"DepictionSeparatorView"
