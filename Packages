@@ -13,6 +13,25 @@ Author: Soda/Liam Thynne <Qq1336171546@gmail.com>
 Name: Kvasir WeChatTheme（微信主题）
 Sileodepiction: https://zsbai.github.io/repo//ms/msxq/kvasir.json
 
+Package: repo.zsbai.apptools13
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Installed-Size: 740
+Depends: mobilesubstrate
+Filename: ./debs/repo.zsbai.apptools13_2.2.1_iphoneos-arm.deb
+Size: 174800
+MD5sum: 908323be288f30e77890ffb83c1a59cc
+SHA1: e868bbc66254676447293990de761e0aa10b6498
+SHA256: a5ac338470d8d835c857b5990389b43f9b45eee836fe8684f033345e7738ce42
+Section: 插件
+Description: App tools是一款App和系统增强工具，兼容13.2以上系统，具体效果，预览截图
+Author: aReo
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: AppTools13图标工具
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/apptool.json
+Sponsor: Ai-小苹果
+
 Package: repo.zsbai.ares
 Version: 1.0.1
 Architecture: iphoneos-arm
