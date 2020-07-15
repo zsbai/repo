@@ -106,6 +106,24 @@ Name: Flux主题
 Sileodepiction: https://zsbai.github.io/repo/ms/msxq/flux.json
 Sponsor: Ai-小苹果
 
+Package: repo.zsbai.localiapstore
+Version: 1.5-4
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/repo.zsbai.localiapstore_1.5-4_iphoneos-arm.deb
+Size: 42400
+MD5sum: dd853ceda4eccff2367c1f9982e3aaf3
+SHA1: 52eb7460eecdb20e613485337bf9e22e723c2a80
+SHA256: 0516d7c0112540e36fe0d7ae140fafe2a24e65b9fdaa64b50a7e24f900497026
+Section: 插件
+Description: 内购破解.支持A12设备
+Author: anondev
+Icon: file:///Applications/Cydia.app/Sections/Acreson-插件(Tweaks).png
+Name: LocalIAPStore「内购破解」
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/localip.json
+Sponsor: CrazyHipHop <342080124@qq.com>
+
 Package: repo.zsbai.photoinfo
 Version: 1.0
 Architecture: iphoneos-arm
