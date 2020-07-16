@@ -234,14 +234,14 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: mobilesubstrate
 Filename: ./debs/repo.zsbai.taobaonoads_1.1-1_iphoneos-arm.deb
-Size: 112848
-MD5sum: 4046c4ff02acebb9c4a68a2b23c49488
-SHA1: 85f94a6cd298aa81627d47d09d9d5caef689c24f
-SHA256: e6c1e3544ca5c6fad2624ec1d58451e17b2b927ab8fd86dab96e3b11bbc74a30
+Size: 112788
+MD5sum: d559eac7ffed45931124e5b01c167eb9
+SHA1: e69f3dbe9b7be9c3837847cb8a9fcc0143c60445
+SHA256: 90b6e6a0f9c72eaf5b8d91ebc59ec6b3b823de4d8ea22e1f427b6ffcdaa22324
 Section: Noads
 Description: 淘宝去启动广告等
 Author: 7Loopy
-Depiction: https://zsbai.github.io/repo/description.htmlid=taobaonoads
+Depiction: https://zsbai.github.io/repo/ms/description.html?id=taobaonoads
 Name: 淘宝 NoAds
 Sileodepiction: https://zsbai.github.io/repo/ms/msxq/taobaonoads.json
 
