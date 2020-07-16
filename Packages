@@ -150,16 +150,16 @@ Maintainer: Nets
 Installed-Size: 232
 Depends: mobilesubstrate
 Filename: ./debs/rsp_raw_netskao.gdjpcrack_1.deb
-Size: 50832
-MD5sum: f21c9500d8b6afdcfd8691fdf76d4086
-SHA1: a7ad2cfb5fb952105f6b040e3300c963f5e3bca7
-SHA256: 5153fc358fe9dd5a876c4ad22e07495281eea27b3fbe2068a56157195af3fae8
+Size: 50836
+MD5sum: 8d7901b7f768beed4866ede5123cd9b4
+SHA1: d233f843e060839234ff63fe7987273016cea097
+SHA256: a31079278bda8aa6a3f44810ba2bde3fa87a6056e63a31f7cbdb328b8362b23a
 Section: 破解
 Homepage: https://apps.apple.com/cn/app/%E6%BB%9A%E5%8A%A8%E6%88%AA%E5%B1%8F/id1486130680
 Description: 滚动截屏开启全功能，点击“更多信息”跳转下载
 Author: 7Loopy
 Name: 滚动截屏 Crack
-Sileodepiction: https://zsbai.baiblog.ren/ms/maxq/gdjpcrack.json
+Sileodepiction: https://zsbai.baiblog.ren/repo/ms/maxq/gdjpcrack.json
 
 Package: repo.zsbai.localiapstore
 Version: 1.5-4
