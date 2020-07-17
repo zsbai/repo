@@ -37,7 +37,7 @@ function loadPackageInfo() {
 				//展示
 				$("#desc_short_").show();
 			}
-			//支持版本 不知道有啥用
+			//版本 
            if(decodeResp.desc_version) {
            $("#version").html(decodeResp.desc_version);
            $("#version_").show();
