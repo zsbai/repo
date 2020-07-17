@@ -51,6 +51,10 @@ function loadPackageInfo() {
 				$("#desc_version").html(decodeResp.desc_version);
 				$("#desc_version_").show();
 			}
+			//作者名字
+			if(decodeResp.author) {
+				$("#author").html(decodeResp.author);
+			}
 			//支持版本
 			if(decodeResp.compatitle) {
 				$("#compatitle").html(decodeResp.compatitle);
@@ -109,7 +113,4 @@ function loadRecentUpdates() {
 			$("#updates_").hide();	
 		}
 	});
-}
-function img(){
-	$("#image").show();
 }
