@@ -110,3 +110,6 @@ function loadRecentUpdates() {
 		}
 	});
 }
+function img(){
+	$("#image").show();
+}

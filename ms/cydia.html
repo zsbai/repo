@@ -40,7 +40,7 @@
 </style>
 <script>
     function img(){
-        $("#image").show
+        $("#image").show();
     }
 </script>
 <body onload="loadPackageInfo();loadRecentUpdates();">
@@ -61,11 +61,11 @@
                 </p>
             </div>
         </div>
-        <div class="img">
-            <div class="b1" onclick="img">预览截图</div>
+        <div class="img" onclick="javascript:img">
+            <div class="b1" onclick="javascript:img">预览截图</div>
         </div>
         <div id="image" hidden>
-            <p id="screenshot"></p>
+            <p id="screenshot">1111</p>
         </div>
     </div>
 </body>
