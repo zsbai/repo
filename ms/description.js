@@ -12,7 +12,7 @@ function loadPackageInfo() {
 		$("#showAddRepoUrl_").show();
 	}
     //检测地址栏由description.html?id=分为两部分
-	var urlSelfParts = window.location.href.split('description.html?id=');
+	var urlSelfParts = window.location.href.split('cydia.html?id=');
 	//前部分加 msxq/ 加后部分
 	var form_url = urlSelfParts[0]+"msxq/"+urlSelfParts[1];
 	$.ajax({
