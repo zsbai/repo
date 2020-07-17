@@ -14,7 +14,7 @@ perl -p -i -e "s/yulanjietu.PNG/notesdate.jpeg/g"   sileo副本.json
 #perl -p -i -e "s/2.png/linewhite2.jpeg/g"   sileo副本.json
 #perl -p -i -e "s/3.png/linewhite3.jpeg/g"   sileo副本.json
 #perl -p -i -e "s/4.png/linewhite4.jpeg/g"   sileo副本.json
-#perl -p -i -e "s/ipX.gif/slices21.png/g"  cydia副本
+#perl -p -i -e "s/yulanjietu.PNG/slices21.png/g"  cydia副本
 mv cydia副本 notesdate
 mv sileo副本.json notesdate.json
 
