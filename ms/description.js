@@ -55,6 +55,10 @@ function loadPackageInfo() {
 			if(decodeResp.author) {
 				$("#author").html(decodeResp.author);
 			}
+			//更新时间
+			if(decodeResp.updatetime) {
+				$("#updatetime").html(decodeResp.updatetime);
+			}
 			//支持版本
 			if(decodeResp.compatitle) {
 				$("#compatitle").html(decodeResp.compatitle);
