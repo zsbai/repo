@@ -39,8 +39,8 @@ function loadPackageInfo() {
 			}
 			//版本 
            if(decodeResp.desc_version) {
-           $("#version").html(decodeResp.desc_version);
-           $("#version_").show();
+           $("#vision").html(decodeResp.desc_version);
+           //$("#version_").show();
            }
 			if(decodeResp.warning) {
 				$("#warning").html(decodeResp.warning);
