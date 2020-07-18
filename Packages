@@ -38,14 +38,14 @@ Maintainer: Ai-小苹果
 Installed-Size: 740
 Depends: mobilesubstrate
 Filename: ./debs/repo.zsbai.apptools13_2.2.1_iphoneos-arm.deb
-Size: 174964
-MD5sum: a0e1f4363b9ef2190d57a6e591fecf22
-SHA1: 8228db39a3544be48dae960f475257c1557bdda4
-SHA256: 52163b7f71689be8fa470f1448c5041b3db4524374aa58cd96aab67e405c5994
+Size: 175044
+MD5sum: a5ce8f2ebaa184a3627a5edd21e0a861
+SHA1: 57b5cfa606345c06b13c177ba3e564d8045b2058
+SHA256: f252e2619c1585e71ec45f551e38d1bd07f34d7adb3c80111b3f7a246e712ba3
 Section: 插件
 Description: App tools是一款App和系统增强工具，兼容13.2以上系统，具体效果，预览截图
 Author: aReo
-Depiction: https://zsbai.github.io/CDN/ms/cydia.html?id=apptool
+Depiction: https://zsbai.github.io/repo/ms/cydia.html?id=apptool
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: AppTools13图标工具
 Sileodepiction: https://zsbai.github.io/repo/ms/msxq/apptool.json
@@ -269,15 +269,15 @@ Version: 1.9.6
 Architecture: iphoneos-arm
 Maintainer: Ai-小苹果
 Filename: ./debs/repo.zsbai.viola_1.9.6_iphoneos-arm.deb
-Size: 57090976
-MD5sum: c2d5cf1cce5615281ab57aa7c07cfa95
-SHA1: ac9ebed92b5a20b6789cee29c72ef4d937890210
-SHA256: 54792dd56d1229181c5663dc9633e2d02c57dabc4a02da5ca20540bff7bff6dc
+Size: 57090828
+MD5sum: c40dd2af9cc830ccb6e7929608e20116
+SHA1: 1e44f12fa5d5f6162a894ff1484755d709e68251
+SHA256: 12aa23c2805d8c25ed081c7ee2ceba9352016a4b0434121d8269f2f50a3d164a
 Section: 主题
 Description: 一个简单，现代和美丽的iOS主题，主题用SnowBoard加载，若无安装SnowBoard请先安装，效果预览截图
 A12: 1
 Author: Bousrih
-Depiction: https://zsbai.github.io/CDN/ms/cydia.html?id=viola
+Depiction: https://zsbai.github.io/repo/ms/cydia.html?id=viola
 Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Icon2: 11.png
 Name: Viola主题
@@ -307,14 +307,14 @@ Maintainer: Nets
 Installed-Size: 232
 Depends: mobilesubstrate
 Filename: ./debs/repo.zsbai.wfnoads_1.4-5_iphoneos-arm.deb
-Size: 51444
-MD5sum: 8f35f4922c1e10b98f46b8d15ab2506d
-SHA1: 03d3ea0cde676e1f24c6f4a170d98ee019e0d12c
-SHA256: 64190161aee37f522fe4c9c135a89de52ca5bc44cb87ba51cf7f9a88ff0a0b31
+Size: 51468
+MD5sum: 89fec27821a465240064fff54cce7223
+SHA1: 7a7c492ed16b484c83e53337cd0a16b27dadf064
+SHA256: 466ab2ccb6bd1dd8943cfae55e54bad740b6894128637fd5d754a5ea99488604
 Section: Noads
 Description: 威锋完美去启动广告，贴间广告等，支持5.x所有版本
 Author: 7Loopy
-Depiction: https://zsbai.github.io/CDN/ms/cydia.html?id=wfnoads
+Depiction: https://zsbai.github.io/repo/ms/cydia.html?id=wfnoads
 Name: 威锋 NoAds
 Sileodepiction: https://zsbai.github.io/repo/ms/msxq/wfnoads.json
 
