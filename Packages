@@ -57,14 +57,15 @@ Architecture: iphoneos-arm
 Maintainer: Phoenix Dev
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/repo.zsbai.ares_1.0.1_iphoneos-arm.deb
-Size: 626656
-MD5sum: a3c3a396b5d568d7e3d6e7e20c3b2151
-SHA1: ef62e953adf9a8d34544d137231078af1e808efa
-SHA256: e001c6327c7c1fd70fc15b82c0fd476994e17f27431a30833c5e7e32d6bdec61
+Size: 626848
+MD5sum: 75ca912d81f2a0c9a0560b98163f8f81
+SHA1: 4021a4287e4e71848f39be6cd98fca49f9fc0762
+SHA256: b6dd1e2b6117549f852d330f1609dda3c553a34d96d57d6eabf493b09befbb46
 Section: 插件
 Description: Ares完全改变了您的Siri体验，这是一个高度可定制的调整，使您可以轻松地使用Siri
 A12: 1
 Author: Phoenix Dev
+Depiction: https://zsbai.github.io/repo/ms/cydia.html?id=ares
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Ares迷你Siri
 Sileodepiction: https://zsbai.github.io/repo/ms/msxq/ares.json
@@ -76,14 +77,15 @@ Architecture: iphoneos-arm
 Maintainer: MainRepo
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/repo.zsbai.bongwater_1.1.3_iphoneos-arm.deb
-Size: 20764
-MD5sum: 34cca9c5914b412613704afa4626e791
-SHA1: 07505a5584b30df25c51fe9174beb04e844f84eb
-SHA256: 366c60ff3a2a3b51e2360942eca7eb80196dbf66f13feb64b341c545c268be81
+Size: 20820
+MD5sum: 08c460c7888cf05536db876b4f583de2
+SHA1: 9016f7b6e98275d200deb87c96277d028887fc53
+SHA256: ef095f1e52502b7a125114e89e8893930323e0ef38115cb1198c09c1c926a3f9
 Section: 插件
 Description: 仿iOS14重新设计通讯录应用程序，安装即可生效
 A12: 1
 Author: qwertyuiop1379
+Depiction: https://zsbai.github.io/repo/ms/cydia.html?id=bongwater
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Bongwater仿iOS14通讯录
 Sileodepiction: https://zsbai.github.io/repo/ms/msxq/bongwater.json
@@ -179,6 +181,24 @@ Icon: file:///Applications/Cydia.app/Sections/Acreson-插件(Tweaks).png
 Name: LocalIAPStore「内购破解」
 Sileodepiction: https://zsbai.github.io/repo/ms/msxq/localip.json
 Sponsor: CrazyHipHop <342080124@qq.com>
+
+Package: repo.zsbai.notescreationdate13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: gilshahar7
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/repo.zsbai.notescreationdate13_1.0_iphoneos-arm .deb
+Size: 6788
+MD5sum: a087eeb3a2cfb4946592de46f15e645e
+SHA1: b9fd47980bab44d2bd7c307c1e08867c6315f69b
+SHA256: f3dc8b526efe4e3a2159dfedd1784dd46285ed292511e5f2ef7d913902f52192
+Section: 插件
+Description: See the date notes were created & modified, originally by ludvigeriksson.
+Author: gilshahar7
+Depiction: https://zsbai.github.io/ms/cydia.html?id=notesdate
+Name: NotesCreationDate13
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/notesdate.json
 
 Package: repo.zsbai.photoinfo
 Version: 1.0
