@@ -6,6 +6,7 @@ Version: 1.0.1
 Depends: mobilesubstrate, firmware (>= 13.0)
 Description: Ares完全改变了您的Siri体验，这是一个高度可定制的调整，使您可以轻松地使用Siri
 SileoDepiction:https://zsbai.github.io/repo/ms/msxq/ares.json
+Depiction: https://zsbai.github.io/repo/ms/cydia.html?id=
 A12: 1
 Name: Ares迷你Siri
 Author: Phoenix Dev

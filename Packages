@@ -71,6 +71,23 @@ Name: Ares迷你Siri
 Sileodepiction: https://zsbai.github.io/repo/ms/msxq/ares.json
 Sponsor: Ai-小苹果™
 
+Package: repo.zsbai.bilibilicrack
+Version: 0.2-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate
+Filename: ./debs/repo.zsbai.bilibilicrack_0.2-1_iphoneos-arm.deb
+Size: 62332
+MD5sum: b354d0e031c9a453911fff01472b9c58
+SHA1: d9e9988548760ef0fcc95678059126ad3122e676
+SHA256: b4ace495b33c60166f909d91a3c66620725ec580900f34f47c559c36b698046c
+Section: 破解
+Description: 哔哩哔哩解锁大会员，解锁1080p，需最新版本哔哩哔哩
+Author: 匿名
+Depiction: https://zsbai.github.io/repo/ms/cydia.html?id=bilibilicrack
+Name: 哔哩哔哩 Crack
+Sileodepiction: https://zsbai.github.io/repo/ms/msxq/bilibilicrack.json
+
 Package: repo.zsbai.bongwater
 Version: 1.1.3
 Architecture: iphoneos-arm
